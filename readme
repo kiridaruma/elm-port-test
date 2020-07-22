@@ -1,0 +1,4 @@
+startsound.mp3は以下のサイトからダウンロードさせてもらいました
+https://pocket-se.info/
+
+`yarn build` で elm.js がビルドされて、index.htmlから実際に動作を確認できます
